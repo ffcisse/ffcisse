@@ -8,7 +8,7 @@ I enjoy building large-scale data pipelines that integrate AI/ML to extract insi
 My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but I’m always exploring and working with new tools as needed.
 
 
-Areas of Interest:
+### Areas of Interest:
 - Biotech and Computational Biology  
 - Healthcare and medical decision systems  
 - Environmental Sustainability  
@@ -19,7 +19,7 @@ Areas of Interest:
 ffcisse@berkeley.edu
 
 
-## Outside of Tech
+### Outside of Tech
 - Calisthenics  
 - Volleyball  
 - Reading  
