@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 🤝
 
-<!--
-**ffcisse/ffcisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Farah, a Data Science and Bioengineering Student at UC Berkeley.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently building large-scale data pipelines that integrate AI/ML to extract insights from large-scale, unstructured data for decision-making.
+
+My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but I’m always exploring and working with new tools as needed.
+
+
+## Areas of Interest
+- Biotech and Computational Biology  
+- Healthcare and medical decision systems  
+- Environmental Sustainability  
+- FoodTech and food systems  
+
+
+## How to Reach Me
+ffcisse@berkeley.edu
+
+
+## Outside of Tech
+- Calisthenics  
+- Volleyball  
+- Reading  
+- Mentorship  
+  
+
