@@ -3,7 +3,7 @@
 My name is Farah, a Data Science and Bioengineering Student at UC Berkeley.
 
 
-I’m currently building large-scale data pipelines that integrate AI/ML to extract insights from unstructured data for decision-making.
+I’m currently strengthening my skills in AI/ML and data systems, with a focus on building scalable data pipelines for extracting insights from unstructured data to support decision-making.
 
 My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but I’m always exploring and working with new tools as needed.
 
