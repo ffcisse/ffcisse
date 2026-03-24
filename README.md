@@ -19,7 +19,7 @@ My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but Iâ
 ffcisse@berkeley.edu
 
 
-### Outside of Tech
+### Outside of Tech:
 - Calisthenics  
 - Volleyball  
 - Reading  
