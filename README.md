@@ -9,10 +9,10 @@ My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but Iâ
 
 
 ### Areas of Interest:
-- Biotech and Computational Biology  
+- Biotech and Computational Biology
+- Data-Driven Automation
 - Healthcare and medical decision systems  
-- Environmental Sustainability  
-- FoodTech and food systems  
+- Environmental Sustainability   
 
 
 ## How to Reach Me
