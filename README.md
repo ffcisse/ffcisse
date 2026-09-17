@@ -9,7 +9,7 @@ My main tech stack includes Python, SQL, OpenAI API, GCP, and Git/GitHub, but Iâ
 
 
 ### Areas of Interest:
-- - Health and Fitness 
+- Health and Fitness 
 - Biotech and Computational Biology
 - Environmental Sustainability   
 
